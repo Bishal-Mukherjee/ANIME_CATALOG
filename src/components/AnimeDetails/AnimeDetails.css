@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.anime_details_grad{
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.2),  rgba(0, 0, 0, 1));
+
+}

@@ -1,0 +1,18 @@
+.card_media:hover {
+    filter: blur(8px);
+    cursor: pointer;
+}
+
+.card_text_hidden{
+    visibility: hidden;
+}
+
+.card_text_visible{
+    visibility: visible;
+}
+
+.card_chip{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
